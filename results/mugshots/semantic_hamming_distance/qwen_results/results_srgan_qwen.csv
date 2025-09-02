@@ -1,0 +1,51 @@
+filename,gender,age,ethnical group,hair color,hair length,hair type,iris color,facial hair,height,weight
+srgan_MadalinaCojocari.jpg,female,11,latina,brown,long,straight,no iris,There is no existence of facial hair in the image description.,5 feet,120
+srgan_HeatherMaeKelley.jpg,female,37,white,blonde,long,straight,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_NataliaBurlinova.jpg,female,45,white,brown,short,curly,blue,There is no existence of facial hair in the image description.,5 feet,120
+srgan_ShanikaMinor.jpg,female,29,african american,black,long,curly,brown,There is no existence of facial hair in the image description.,"5'7""",120
+srgan_SamuelRose.jpg,male,37,african american,black,long,wavy,no iris,The man has a mustache and a goatee. They are black in color. The mustache is short and the goatee is long.,6 feet,120
+srgan_IrisPerez.jpg,Female.,14,african american,black,long,curly,brown,There is no existence of facial hair in the image description.,5 feet,120
+srgan_LoriPaige.jpg,female,13,african american,black,long,curly,brown,There is no existence of facial hair in the image description.,"5'5""",120 pounds
+srgan_WeiLiPang.jpg,female,47,Asian,brown,short,curly,brown,There is no existence of facial hair in the image.,"5'0""",120
+srgan_RobertMorales.jpg,male,37,hispanic,gray,short,straight,no iris visible,"There is a beard, it is black, and it is short.","5'10""",120
+srgan_ReikoNakata.jpg,female,49,white,brown,long,curly,no iris visible,There is no existence of facial hair in the image description.,"5'8""",120
+srgan_WendyRios.jpg,female,37,latina,black,long,wavy,no iris visible,There is no existence of facial hair in the image description.,5 feet,120
+srgan_BonillasRivasJocelynn.jpg,female,35,indian,black,long,wavy,brown,There is no existence of facial hair in the image description.,"5'2""",120 pounds
+srgan_DevinCooper.jpg,female,37,african american,black,long,wavy,brown,There is no existence of facial hair in the image.,5 feet,120
+srgan_EvelynGuzman.jpg,female,37,indian,brown,long,curly,brown,There is no existence of facial hair in the image.,"5'5""",120
+srgan_StanleyObas.jpg,male,37,black,black,short,wavy,brown,There is no existence of facial hair in the image description.,6 feet,150
+srgan_AmberAiaz.jpg,female,33,Asian,black,long,curly,brown,There is no existence of facial hair in the image.,5 feet,120 pounds
+srgan_JulieanneBaldueza.jpg,female,37,indian,brown,long,curly,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_EvanNeumann.jpg,male,45,white,brown,short,curly,no iris,"Yes, there is a beard and mustache. The color is brown and the length is short.",6 feet,150
+srgan_RujaIgnatova.jpg,female,40,white,black,long,curly,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_DonaldField.jpg,male,45,white,gray,short,curly,no iris,"Yes, there is a mustache and a goatee. The mustache is gray and the goatee is also gray. The mustache is thin and the goatee is short.",6 feet,120
+srgan_RaulGuzman.jpg,male,60,mexican,black,short,straight,no iris visible,The person has a mustache and a goatee. The mustache is gray and the hair is long.,6 feet,120
+srgan_FranzDieuDonne.jpg,male,40,black,black,short,curly,brown,"Yes, there is a mustache in the image. It is black and short.",6 feet,120
+srgan_AbiolaKayode.jpg,male,30,black,black,short,wavy,no iris,"Yes, there is a beard on the man's face. It is black in color and short.",6 feet,120 pounds
+srgan_CatherineKerkow.jpg,female,45,white,black,long,wavy,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_RobertFisher.jpg,male,45,white,gray,short,straight,no color,"No, there are no facial hair. The man is clean-shaven.",6 feet,120
+srgan_BirdalOsman.jpg,Male.,36,Hispanic,black,short,straight,brown,The person has a black beard.,6 feet,120
+srgan_GangLiu.jpg,Male.,37,Asian.,black,short,curly,brown,no,"5'6""",120 pounds
+srgan_OlegMikhaylovich.jpg,male,48,white,gray,short,curly,No iris visible.,"Yes, there is a man with a goatee in the image. The goatee is black, and it is short.",6 feet,120 pounds
+srgan_VietNguyen.jpg,male,21,asian,black,short,straight,no iris,"No, there are no facial hair.","5'4""",120
+srgan_ParkJinHyok.jpg,male,37,Asian,black,short,curly,no iris,"There is no existence of facial hair in the image information, so it is a nonexistent attribute.","5'9""",120
+srgan_RajahMcqueen.jpg,female,37,african american,black,long,wavy,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_DavidDurham.jpg,male,49,white,brown,long,wavy,blue,There is a man with a beard in the image. The beard is brown in color and the man has a short haircut.,6 foot,120
+srgan_JuanaRojo.jpg,female,55,white,gray,long,wavy,brown,There is no existence of facial hair in the image.,"5'7""",120
+srgan_AnnaVladislavovna.jpg,female,40,white,blonde,long,straight,brown,There is no existence of facial hair in the image description.,"5'6""",120
+srgan_AlejandroCastillo.jpg,male,21,mexican,black,short,curly,brown,There is no existence of facial hair in the image.,6 feet,120
+srgan_CierraChapman.jpg,Female.,25,african american,red,long,wavy,no iris,There is no existence of facial hair in the image description.,"5'6""",120
+srgan_GeorgeWright.jpg,male,60,black,black,long,straight,no iris visible,There is no existence of facial hair in the image.,6 feet,120 pounds
+srgan_RaduanoMarco.jpg,male,40,white,brown,short,straight,no iris,There is no existence of facial hair in the image description.,6 foot,120
+srgan_YulanAdonayArchagaCarias.jpg,male,40,hispanic,black,short,curly,no iris,"Yes, there is a man with a goatee in the image. The goatee is black and the hair is short.","5'7""",120
+srgan_AdriannaMelendez.jpg,female,34,hispanic,black,short,wavy,brown,There is no existence of facial hair in the image.,"5'0""",120
+srgan_FuQiang.jpg,male,39,asian,black,short,curly,brown,"No, there are no facial hair.","5'6""",120
+srgan_ArnoldoJimenez.jpg,Male.,33,Hispanic,brown,short,wavy,no iris,"Yes, there is a beard on the man's face. It is short and brown.","5'8""",120
+srgan_CarisAyala.jpg,female,40,hispanic,black,long,straight,brown,There is no existence of facial hair in the image description.,6 feet,120
+srgan_MonicaWitt.jpg,female,37,mexican,black,long,straight,brown,There is no existence of facial hair in the image description.,"5'2""",120
+srgan_MendozaEscotaJairoAntonio.jpg,male,37,indian,black,short,wavy,no iris visible,no,"5'6""",120
+srgan_MariaLopez.jpg,female,65,white,blonde,short,curly,no iris,"No, there are no facial hair.",5 feet,120
+srgan_AlexisFlores.jpg,male,37,white,black,short,curly,no iris,"No, there are no facial hair.","6'2""",120
+srgan_GeorgeMason.jpg,male,40,white,bald,short,straight,no iris visible,"yes, there is a goatee and it is brown. the goatee is short.",6 feet,120
+srgan_WangLin.jpg,male,40,asian,black,short,curly,brown,no,5 feet,120 pounds
+srgan_TeresitaDanDan.jpg,female,49,Asian,black,short,curly,brown,There is no existence of facial hair in the image.,5 feet,120
