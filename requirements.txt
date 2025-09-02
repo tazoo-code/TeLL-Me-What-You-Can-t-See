@@ -1,0 +1,30 @@
+# PhotoMaker
+torch
+torchvision
+diffusers==0.29.1
+transformers
+huggingface-hub
+spaces
+numpy
+accelerate
+safetensors
+omegaconf
+peft
+gradio
+insightface==0.7.3
+einops
+# TVdenoise
+kornia
+# Maxim
+git+https://github.com/google-research/maxim.git
+jax
+gdown
+# Qwen
+tiktoken
+transformers_stream_generator==0.0.4
+scipy
+tensorboard
+optimum
+auto-gptq
+# Tinyllava
+git+https://github.com/TinyLLaVA/TinyLLaVA_Factory.git@tinyllava_bench
