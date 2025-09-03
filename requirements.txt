@@ -28,3 +28,6 @@ optimum
 auto-gptq
 # Tinyllava
 git+https://github.com/TinyLLaVA/TinyLLaVA_Factory.git@tinyllava_bench
+# Deepface
+deepface
+tf-keras
