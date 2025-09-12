@@ -1,9 +1,14 @@
 # TeLL-Me What You Can’t See: A Vision-Language Framework for Forensic Mugshot Augmentation
 
-Abstract
+During criminal investigations, the availability of images depicting persons of interest directly influences the success of an identification procedures. However, law enforcement agencies often face challenges related to the scarcity of high-quality images or their obsolescence, which can affect the accuracy and success of people-search processes.
+
+This paper introduces a novel forensic mugshot augmentation framework aimed at addressing these limitations. In order to assist law enforcement in identification procedures, our approach enhances visual evidence by creating synthetic, high-quality pictures through customizable data augmentation techniques. These are enabled by the combination of generative AI models and structured to preserve biometric identity and visual coherence with respect to the original data.
+
+Experimental results demonstrate that our method consistently enriches multimedia data quality for forensic identification and provides several robust enhancements across multiple investigative scenarios. Such effectiveness has been validated by means of  both vision-based and evidence-based metrics supporting its potential as a tool for law enforcement applications.
+
+Attribute extraction reached $84.1\%$ (+2.3 percentage points over the original mugshots), and re-identification indicated strong identity preservation: similarity for same-subject pairs $\sim 0.89$ vs. $\sim 0.19$ for different-subject pairs. These results suggest that the framework reliably extracts and leverages the required target characteristics, with no notable hallucinations observed.
 
 ## Method
-
 We developed the tool using the following strategy:
   - Data Gathering/OSINT:
   - Image enhancement: the quality of the original picture is improved by means of multiple denoising generative strategies that aim at compensating several quality-impairing elements affecting the original image.
@@ -21,7 +26,7 @@ In order to improve the quality of the input pictures, we compared three signal 
 * [SRGAN enhancement](./code/enhancement_models/srgan_script.py): This method aims to estimate a high-resolution image from its low-resolution counterpart.
 
 <p align="center">
-  <img src="./images/repo_images/enhancements.png" alt="Sublime's custom image"/>
+  <img src="./images/images_for_repository/enhancements.png" alt="Enhancement methods images" width="70%">
 </p>
 
 
@@ -34,14 +39,30 @@ We compare two small-scale pre-trained VLMs.
 * [TinyLLaVA](./code/vlm_models/tinyllava_script.py): The model is a small-scale large-multimodal architecture, composed by a pretrained vision encoder and a small-scale LLM, connected by a two-layer Multi-Layer Perceptron (MLP).
 
 
-### Image augmentation
+### Synthetic image generation
 An Image-to-image model is used to generate new synthetic pictures of the subject, using as text prompt the information extracted in the previous phase.
 
 * [PhotoMaker](./code/generative_models/photomaker_script.py): This generative model produces synthetic pictures while preserving the identity of the subjects, guided through the input text prompts.
 
+<p align="center">
+  <img src="./images/images_for_repository/generated.png" alt="Generated images" width="70%">
+</p>
+
+
+### Evidence finalization
+The generated images are compared for similarity with the original mugshots using two re-identification models:
+ * [DeepFace](./code/re-id_models/deepface_script.py): deep learning classification method that  uses an Euclidean embedding of faces.
+
+ * [Recognito](https://github.com/recognito-vision): a facial recognition system that positioned among the top systems in both the 1:1 verification and 1:N identification scenarios during the NIST Face Recognition Technology Evaluation.
+
 
 ## Results
-The results of the first and third phases are collected into the [enhanced_pictures](./images/enhanced_pictures) and [Photomaker_generated_pictures](./images/Photomaker_generated_pictures) folders.
 
-The results of the first and second phases are compared using a ["semantic" Hamming distance](./results/metric_computation.ipynb), which returns an accuracy score of the predictions w.r.t. the ground truth.
-The results achieved using this method are collected into the [results](.main/results) folder.
+The results of the image enhancement phase are collected in the folder [enhanced_images](./images/mugshots/enhanced_images/).
+
+The linguistic descriptions of the images are compared using the ["semantic" Hamming distance](./results/mugshots/semantic_hamming_distance/metric_computation.ipynb), which returns an accuracy score of the predictions w.r.t. the ground truth. 
+
+The generated synthetic images are collected in the folder [generated_images](./images/mugshots/generated_images/).
+
+The results of both the "semantic" Hamming distance and the re-identification phase are collected in the folder [results/mugshots](./results/mugshots/).
+In the folder [results/aging_deaging](./results/aging_deaging/) the results of the aging and deaging tasks are presented.
