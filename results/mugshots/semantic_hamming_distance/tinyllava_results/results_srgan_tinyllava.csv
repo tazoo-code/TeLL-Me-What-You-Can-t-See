@@ -1,0 +1,51 @@
+filename,gender,age,ethnical group,hair color,hair length,hair type,iris color,facial hair,height,weight
+srgan_MadalinaCojocari.jpg,Female,12,White,Brown,Long,Straight,Brown,"No, there are no facial hair. They are long and brown.",5 feet,120
+srgan_HeatherMaeKelley.jpg,Female,25,Caucasian,Blonde,Short,Straight,Brown,"Yes, there are facial hair. They are brown in color and appear to be long.",5 feet,120
+srgan_NataliaBurlinova.jpg,Female,40,Caucasian,Brown,Short,Straight,Brown,"No, there are no facial hair. They are both brown in color.",5 feet,120
+srgan_ShanikaMinor.jpg,Female,25,African american,Black,Long,Straight,Brown,"No, there are no facial hair. They are long and black.",5 feet,120
+srgan_SamuelRose.jpg,Male,30,African american,Black,Long,Curly,Brown,"Yes, there is facial hair. The color of the facial hair is black. It is long and appears to be a beard.",6 feet,200
+srgan_IrisPerez.jpg,Female,12,African american,Black,Long,Curly,Brown,"No, there are no facial hair. They are long and black.",5 feet,100
+srgan_LoriPaige.jpg,Female,12,African american,Black,Long,Curly,Brown,"No, there are no facial hair. They are long eyelashes.",5 feet,120
+srgan_WeiLiPang.jpg,Female,30,Asian,Brown,Short,Straight,Brown,"No, there are no facial hair. They are both brown in color.",5 feet,120
+srgan_RobertMorales.jpg,Male,30,White,Black,Short,Straight,Brown,"Yes, there is facial hair. The man has a mustache and a goatee. The mustache is black, and the goatee is brown.",5 feet,200
+srgan_ReikoNakata.jpg,Female,30,Asian,Brown,Long,Wavy,Brown,"Yes, there are facial hair. They are brown in color and appear to be long.",5 feet,120
+srgan_WendyRios.jpg,Female,30,american,Black,Long,Straight,Brown,"No, there are no facial hair. They are long eyelashes.",5 feet,120
+srgan_BonillasRivasJocelynn.jpg,Female,20,Asian,Brown,Short,Straight,Brown,"No, there are no facial hair. They are both brown in color.",5 feet,120
+srgan_DevinCooper.jpg,Female,20,African american,Black,Long,Curly,Brown,"No, there are no facial hair. They are long and black.",5 feet,120
+srgan_EvelynGuzman.jpg,Female,20,Asian,Brown,Long,Straight,Brown,"No, there are no facial hair. They are long and brown.",5 feet,120
+srgan_StanleyObas.jpg,Male,30,African american,Black,Short,Straight,Brown,"Yes, there is facial hair. The facial hair is black and long.",6 feet,200
+srgan_AmberAiaz.jpg,Female,20,Asian,Black,Long,Straight,Brown,"Yes, there are facial hair. They are brown in color and long.",5 feet,120
+srgan_JulieanneBaldueza.jpg,Female,30,Black,Brown,Long,Wavy,Brown,"No, there are no facial hair. They are long and black.",5 feet,200
+srgan_EvanNeumann.jpg,Male,40,Caucasian,Brown,Short,Wavy,Brown,"Yes, there are facial hair. They are brown in color and appear to be short.","5'8""",200
+srgan_RujaIgnatova.jpg,Female,30,White,Brown,Long,Straight,Brown,"No, there are no facial hair. They are long eyelashes.",5 feet,120
+srgan_DonaldField.jpg,Male,50,Caucasian,Gray,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of the facial hair is white.","5'8""",200
+srgan_RaulGuzman.jpg,Male,60,White,Brown,Short,Straight,Brown,"Yes, there is facial hair. The facial hair is white and long.",5 feet,200
+srgan_FranzDieuDonne.jpg,Male,40,Black,Black,Short,Straight,Brown,"Yes, there is facial hair. The man has a dark beard.",6 feet,200
+srgan_AbiolaKayode.jpg,Male,30,Black,Black,Short,Straight,Brown,"Yes, there is facial hair. The facial hair is black.","5'8""",200
+srgan_CatherineKerkow.jpg,Female,30,Asian,Black,Long,Straight,Blue,"No, there are no facial hair. They are long and black.",5 feet,120
+srgan_RobertFisher.jpg,Male,30,White,Black,Short,Straight,Brown,"No, there are no facial hair. They are clean-shaven.",5 feet,200
+srgan_BirdalOsman.jpg,Male,30,White,Brown,Short,Straight,Brown,"Yes, there is facial hair. The facial hair is brown and short.",5 feet,200
+srgan_GangLiu.jpg,Male,30,Asian,Black,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of his facial hair is black. It is short in length.","5'8""",200
+srgan_OlegMikhaylovich.jpg,Male,50,Caucasian,Gray,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of his facial hair is gray.",6 feet,200
+srgan_VietNguyen.jpg,Male,20,Asian,Black,Short,Straight,Brown,"No, there are no facial hair. The man has short hair.",5 feet,120
+srgan_ParkJinHyok.jpg,Male,25,Asian,Black,Short,Straight,Brown,"No, there are no facial hair. They are short.","5'8""",160
+srgan_RajahMcqueen.jpg,Female,25,Black,Black,Long,Straight,Brown,"No, there are no facial hair. They are long and black.",5 feet,120
+srgan_DavidDurham.jpg,Male,30,Caucasian,Brown,Long,Straight,Blue,"No, there are no facial hair. The man has long hair.",6 feet,200
+srgan_JuanaRojo.jpg,Female,60,White,Gray,Long,Wavy,Brown,"No, there are no facial hair. They are long and gray.",5 feet,140
+srgan_AnnaVladislavovna.jpg,Female,30,Caucasian,Blonde,Short,Wavy,Brown,"No, there are no facial hair. They are both brown in color.",5 feet,120
+srgan_AlejandroCastillo.jpg,Male,20,White,Brown,Short,Curly,Brown,"Yes, there is a man with facial hair. The color of the facial hair is black. The facial hair is short.",5 feet,200
+srgan_CierraChapman.jpg,Female,20,African american,Red,Long,Curly,Brown,"No, there are no facial hair. The woman has long red hair.",5 feet,120
+srgan_GeorgeWright.jpg,Male,50,Black,Black,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of the facial hair is black. The facial hair is long.",6 feet,200
+srgan_RaduanoMarco.jpg,Male,30,Caucasian,Brown,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of the facial hair is black. The facial hair is short.",5 feet,200
+srgan_YulanAdonayArchagaCarias.jpg,Male,30,White,Black,Short,Straight,Brown,"Yes, there is facial hair. The color of the facial hair is black. They are long and well-groomed.","5'8""",200
+srgan_AdriannaMelendez.jpg,Female,30,White,Brown,Short,Straight,Brown,"No, there are no facial hair. They are all hairless.",5 feet,200
+srgan_FuQiang.jpg,Male,30,Asian,Black,Short,Straight,Brown,"No, there are no facial hair. They are short.",5 feet,120
+srgan_ArnoldoJimenez.jpg,Male,30,Hispanic,Brown,Short,Straight,Brown,"Yes, there is facial hair. The color of the facial hair is black. It is short in length.",5 feet,200
+srgan_CarisAyala.jpg,Female,30,Black,Black,Long,Straight,Brown,"No, there are no facial hair. They are long and black.",5 feet,140
+srgan_MonicaWitt.jpg,Female,30,White,Brown,Long,Straight,Brown,"No, there are no facial hair. They are both long-haired women.",5 feet,120
+srgan_MendozaEscotaJairoAntonio.jpg,Male,20,White,Black,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of the facial hair is black. The facial hair is short.",5 feet,200
+srgan_MariaLopez.jpg,Female,60,White,Blonde,Short,Straight,Brown,"No, there are no facial hair. They are both brown in color.",5 feet,140
+srgan_AlexisFlores.jpg,Male,20,White,Black,Short,Straight,Brown,"No, there are no facial hair in the image.",5 feet,200
+srgan_GeorgeMason.jpg,Male,40,Caucasian,Gray,Short,Straight,Brown,"Yes, there is facial hair. The man has a goatee, which is black in color.",5 feet,200
+srgan_WangLin.jpg,Male,40,Asian,Black,Short,Straight,Brown,"Yes, there is a man with facial hair. The color of the facial hair is black. It is short in length.","5'8""",200
+srgan_TeresitaDanDan.jpg,Female,30,Asian,Black,Short,Straight,Brown,"No, there are no facial hair. They are short.",5 feet,120
